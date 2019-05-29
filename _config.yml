@@ -2,3 +2,15 @@ theme: jekyll-theme-minimal
 title: Harrison Wainwright
 logo: https://avatars0.githubusercontent.com/u/26075039?s=400&u=7ed8552cf331ac170e70d0e16d97c70fdfa25e9f&v=4
 minimal_mistakes_skin: "mint"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
