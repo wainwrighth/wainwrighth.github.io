@@ -4,10 +4,13 @@
 @import "{{ site.theme }}";
 
 .app-icon {
-  padding-right:10px;
   height:186px;
   width:186px;
 }
 .app-description{
   padding-top:15px;
+  padding-left:10px;
+}
+.app-list{
+  padding-left:10px;
 }
